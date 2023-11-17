@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "219620858963",
+    "project_id": "auth-26c90",
+    "storage_bucket": "auth-26c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219620858963:android:27072e1ca53d05b21f3aa6",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219620858963-e85q6a9o2oiofik473b9ahs96nu2svlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB49R9CTAWPqsEqPy1yRhzDk0PUkCG4e-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219620858963-e85q6a9o2oiofik473b9ahs96nu2svlb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219620858963-h25qqmshimma4316f178n7ftnjv2mrc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.modernlogintute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

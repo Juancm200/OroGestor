@@ -19,7 +19,7 @@ OroGestor es una aplicación desarrollada en Flutter diseñada para facilitar la
 
 Asegúrate de tener Flutter y Dart instalados en tu máquina. Luego, sigue estos pasos:
 
-1. Clona este repositorio: `git clone https://github.com/tuusuario/OroGestor.git`
+1. Clona este repositorio: `git clone https://github.com//Juancm200/OroGestor.git`
 2. Navega al directorio del proyecto: `cd OroGestor`
 3. Instala las dependencias: `flutter pub get`
 4. Ejecuta la aplicación: `flutter run`
